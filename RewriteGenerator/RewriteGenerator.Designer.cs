@@ -50,7 +50,6 @@ namespace RewriteGenerator
             this.txtFileName.ReadOnly = true;
             this.txtFileName.Size = new System.Drawing.Size(219, 22);
             this.txtFileName.TabIndex = 0;
-            this.txtFileName.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // btnOpenExcel
             // 
