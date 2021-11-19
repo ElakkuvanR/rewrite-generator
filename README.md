@@ -1,4 +1,4 @@
-# sitemap-generator
+# rewrite-generator
 
 This is a windows forms application created to easy the process of generating the redirects. 
 
